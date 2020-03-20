@@ -8,7 +8,9 @@ namespace blogCRUD.Interfaces
     public interface IUnitOfWork
     {
         IPost Post { get; }
+
         ITag Tag { get; }
+
         void Save();
     }
 }

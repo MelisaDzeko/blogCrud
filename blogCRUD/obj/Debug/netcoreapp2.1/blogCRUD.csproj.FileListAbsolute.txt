@@ -1,3 +1,8 @@
+C:\Users\MelisaBegić\Desktop\blogCRUD\blogCRUD\blogCRUD\obj\Debug\netcoreapp2.1\blogCRUD.csproj.CoreCompileInputs.cache
+C:\Users\MelisaBegić\Desktop\blogCRUD\blogCRUD\blogCRUD\obj\Debug\netcoreapp2.1\blogCRUD.RazorAssemblyInfo.cache
+C:\Users\MelisaBegić\Desktop\blogCRUD\blogCRUD\blogCRUD\obj\Debug\netcoreapp2.1\blogCRUD.RazorAssemblyInfo.cs
+C:\Users\MelisaBegić\Desktop\blogCRUD\blogCRUD\blogCRUD\obj\Debug\netcoreapp2.1\blogCRUD.AssemblyInfoInputs.cache
+C:\Users\MelisaBegić\Desktop\blogCRUD\blogCRUD\blogCRUD\obj\Debug\netcoreapp2.1\blogCRUD.AssemblyInfo.cs
 C:\Users\MelisaBegić\Desktop\blogCRUD\blogCRUD\blogCRUD\bin\Debug\netcoreapp2.1\blogCRUD.deps.json
 C:\Users\MelisaBegić\Desktop\blogCRUD\blogCRUD\blogCRUD\bin\Debug\netcoreapp2.1\blogCRUD.runtimeconfig.json
 C:\Users\MelisaBegić\Desktop\blogCRUD\blogCRUD\blogCRUD\bin\Debug\netcoreapp2.1\blogCRUD.runtimeconfig.dev.json
@@ -5,11 +10,6 @@ C:\Users\MelisaBegić\Desktop\blogCRUD\blogCRUD\blogCRUD\bin\Debug\netcoreapp2.1
 C:\Users\MelisaBegić\Desktop\blogCRUD\blogCRUD\blogCRUD\bin\Debug\netcoreapp2.1\blogCRUD.pdb
 C:\Users\MelisaBegić\Desktop\blogCRUD\blogCRUD\blogCRUD\bin\Debug\netcoreapp2.1\blogCRUD.Views.dll
 C:\Users\MelisaBegić\Desktop\blogCRUD\blogCRUD\blogCRUD\bin\Debug\netcoreapp2.1\blogCRUD.Views.pdb
-C:\Users\MelisaBegić\Desktop\blogCRUD\blogCRUD\blogCRUD\obj\Debug\netcoreapp2.1\blogCRUD.csproj.CoreCompileInputs.cache
-C:\Users\MelisaBegić\Desktop\blogCRUD\blogCRUD\blogCRUD\obj\Debug\netcoreapp2.1\blogCRUD.RazorAssemblyInfo.cache
-C:\Users\MelisaBegić\Desktop\blogCRUD\blogCRUD\blogCRUD\obj\Debug\netcoreapp2.1\blogCRUD.RazorAssemblyInfo.cs
-C:\Users\MelisaBegić\Desktop\blogCRUD\blogCRUD\blogCRUD\obj\Debug\netcoreapp2.1\blogCRUD.AssemblyInfoInputs.cache
-C:\Users\MelisaBegić\Desktop\blogCRUD\blogCRUD\blogCRUD\obj\Debug\netcoreapp2.1\blogCRUD.AssemblyInfo.cs
 C:\Users\MelisaBegić\Desktop\blogCRUD\blogCRUD\blogCRUD\obj\Debug\netcoreapp2.1\blogCRUD.TagHelpers.input.cache
 C:\Users\MelisaBegić\Desktop\blogCRUD\blogCRUD\blogCRUD\obj\Debug\netcoreapp2.1\blogCRUD.TagHelpers.output.cache
 C:\Users\MelisaBegić\Desktop\blogCRUD\blogCRUD\blogCRUD\obj\Debug\netcoreapp2.1\blogCRUD.RazorCoreGenerate.cache
@@ -29,3 +29,4 @@ C:\Users\MelisaBegić\Desktop\blogCRUD\blogCRUD\blogCRUD\obj\Debug\netcoreapp2.1
 C:\Users\MelisaBegić\Desktop\blogCRUD\blogCRUD\blogCRUD\obj\Debug\netcoreapp2.1\blogCRUD.dll
 C:\Users\MelisaBegić\Desktop\blogCRUD\blogCRUD\blogCRUD\obj\Debug\netcoreapp2.1\blogCRUD.pdb
 C:\Users\MelisaBegić\Desktop\blogCRUD\blogCRUD\blogCRUD\obj\Debug\netcoreapp2.1\blogCRUD.csproj.CopyComplete
+C:\Users\MelisaBegić\Desktop\blogCRUD\blogCRUD\blogCRUD\obj\Debug\netcoreapp2.1\blogCRUD.csprojAssemblyReference.cache

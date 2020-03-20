@@ -1,4 +1,5 @@
 ﻿using blogCRUD.Models;
+using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,12 +11,14 @@ namespace blogCRUD.Interfaces
     {
         List<Post> GetAll();
 
-        Post GetById(string Id);
+        Post GetPost(string slug);
+
+        List<Post> Search(string tag);
 
         void Insert(Post post);
 
         void Update(Post post);
 
-        void Delete(Post post);
+        void Delete(string slug);
     }
 }
